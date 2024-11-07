@@ -7,7 +7,6 @@ class Solution {
         //         return i;
         int count=1;
         int j=1;
-        int n=nums.length;
         for(int i=1;i<nums.length;i++){
             if(nums[i]==nums[i-1]){
                 count+=1;
