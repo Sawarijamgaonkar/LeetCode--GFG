@@ -11,4 +11,12 @@ Solving leet code questions
 | [0585-investments-in-2016](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1811-fix-names-in-a-table](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1811-fix-names-in-a-table) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
