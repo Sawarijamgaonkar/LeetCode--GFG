@@ -35,4 +35,16 @@ Solving leet code questions
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
