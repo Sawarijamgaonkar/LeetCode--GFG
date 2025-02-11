@@ -29,7 +29,8 @@ class Solution {
             temp.next=new ListNode(num);
             temp=temp.next;
         }
-        return newlist.next;
-        
+        return newlist.next;  
+            
     }
+
 }
