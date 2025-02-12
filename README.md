@@ -34,6 +34,7 @@ Solving leet code questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -43,8 +44,10 @@ Solving leet code questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
