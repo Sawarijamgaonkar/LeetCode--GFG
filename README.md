@@ -45,9 +45,11 @@ Solving leet code questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
