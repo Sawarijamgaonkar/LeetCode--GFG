@@ -35,6 +35,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -46,10 +47,12 @@ Solving leet code questions
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
