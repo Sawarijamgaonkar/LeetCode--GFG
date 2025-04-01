@@ -30,10 +30,6 @@ class Solution {
         for(int i=0;i<size-k;i++){
             head=head.next;
         }
-        // if(head.next==null){
-        //     current.next=first;
-        //     return current
-        // }
         current.next=head.next;
         if(current.next==null){
             return first;
@@ -41,6 +37,5 @@ class Solution {
         head.next=null;
         temp.next=first;
         return current.next;
-        
     }
 }
