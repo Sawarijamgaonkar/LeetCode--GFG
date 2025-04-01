@@ -43,6 +43,7 @@ Solving leet code questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Solving leet code questions
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -82,4 +84,9 @@ Solving leet code questions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
