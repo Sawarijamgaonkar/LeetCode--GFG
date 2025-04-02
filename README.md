@@ -26,6 +26,7 @@ Solving leet code questions
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
@@ -48,6 +49,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
@@ -89,4 +91,8 @@ Solving leet code questions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
