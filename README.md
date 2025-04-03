@@ -45,6 +45,7 @@ Solving leet code questions
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
