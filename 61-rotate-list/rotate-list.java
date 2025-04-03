@@ -24,9 +24,10 @@ class Solution {
             temp=temp.next;
             size++;
         }
-        while(k>=size+1){
-            k=k-size-1;
-        }
+        // while(k>=size+1){
+        //     k=k-size-1;
+        // }
+        k=k%(size+1);
         for(int i=0;i<size-k;i++){
             head=head.next;
         }
