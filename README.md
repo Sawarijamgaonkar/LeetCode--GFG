@@ -27,6 +27,7 @@ Solving leet code questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
@@ -35,6 +36,7 @@ Solving leet code questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
