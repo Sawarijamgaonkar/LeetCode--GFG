@@ -31,17 +31,20 @@ Solving leet code questions
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
@@ -61,6 +64,7 @@ Solving leet code questions
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -113,6 +117,7 @@ Solving leet code questions
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -142,6 +147,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
