@@ -34,6 +34,7 @@ Solving leet code questions
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
@@ -42,6 +43,7 @@ Solving leet code questions
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Solving leet code questions
 | ------- |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
