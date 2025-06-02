@@ -66,6 +66,7 @@ Solving leet code questions
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
@@ -86,10 +87,12 @@ Solving leet code questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
