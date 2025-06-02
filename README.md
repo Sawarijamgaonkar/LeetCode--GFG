@@ -29,6 +29,7 @@ Solving leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
+| [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
@@ -161,5 +162,6 @@ Solving leet code questions
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
