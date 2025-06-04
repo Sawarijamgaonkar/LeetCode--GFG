@@ -18,6 +18,7 @@ Solving leet code questions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Solving leet code questions
 | ------- |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Solving leet code questions
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0344-reverse-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
