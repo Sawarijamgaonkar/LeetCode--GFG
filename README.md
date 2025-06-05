@@ -15,6 +15,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0344-reverse-string) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -179,4 +180,8 @@ Solving leet code questions
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
