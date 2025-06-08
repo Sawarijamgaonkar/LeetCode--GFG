@@ -184,4 +184,12 @@ Solving leet code questions
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
