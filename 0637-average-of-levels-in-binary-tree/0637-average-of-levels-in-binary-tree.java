@@ -23,6 +23,7 @@ class Solution {
         queue.offer(root);
         while(!queue.isEmpty()){
             int levelSize=queue.size();
+            double average=0;
             List<Integer> currentLevel=new ArrayList<>(levelSize);
             for(int i=0;i<levelSize;i++){
                 TreeNode currentNode=queue.poll();
@@ -33,13 +34,10 @@ class Solution {
                 if(currentNode.right!=null){
                     queue.offer(currentNode.right);
                 }
-            }
-            double average=0;
-            for(int i=0;i<levelSize;i++){
                 average+=currentLevel.get(i);
             }
-            average/=levelSize;
-            result.add(average);
+            
+            result.add(average/levelSize);
         }
         return result;
 
