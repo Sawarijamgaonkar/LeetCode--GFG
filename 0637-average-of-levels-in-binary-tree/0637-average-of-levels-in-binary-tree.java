@@ -24,19 +24,16 @@ class Solution {
         while(!queue.isEmpty()){
             int levelSize=queue.size();
             double average=0;
-            List<Integer> currentLevel=new ArrayList<>(levelSize);
             for(int i=0;i<levelSize;i++){
                 TreeNode currentNode=queue.poll();
-                currentLevel.add(currentNode.val);
+                average+=currentNode.val;
                 if(currentNode.left!=null){
                     queue.offer(currentNode.left);
                 }
                 if(currentNode.right!=null){
                     queue.offer(currentNode.right);
                 }
-                average+=currentLevel.get(i);
             }
-            
             result.add(average/levelSize);
         }
         return result;
