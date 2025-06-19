@@ -163,6 +163,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -178,6 +179,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -193,6 +195,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -211,6 +214,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0386-lexicographical-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
