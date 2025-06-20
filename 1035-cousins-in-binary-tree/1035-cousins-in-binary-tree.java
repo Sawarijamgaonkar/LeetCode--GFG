@@ -15,44 +15,40 @@
  */
 class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
-        TreeNode xx=findNode(root,x);
-        TreeNode yy=findNode(root,y);
-        return (level(root,xx,0)==level(root,yy,0)) && (!isSibling(root,xx,yy));
+        TreeNode xNode=findNode(root,x);
+        TreeNode yNode=findNode(root,y);
+        return (level(root,xNode,0)==level(root,yNode,0)) && (!isSibling(root,xNode,yNode));  
     }
-    public TreeNode findNode(TreeNode node, int x){
+    public TreeNode findNode(TreeNode node, int value){
         if(node==null){
             return null;
         }
-        if(node.val==x){
+        if(node.val==value){
             return node;
         }
-        TreeNode n=findNode(node.left,x);
+        TreeNode n=findNode(node.left,value);
         if(n!=null){
-            // found in left side of recurssion
             return n;
         }
-        return findNode(node.right,x);
+        return findNode(node.right, value);
     }
-
-    public int level(TreeNode node, TreeNode x, int lev){
+    public int level(TreeNode node, TreeNode x, int level){
         if(node==null){
             return 0;
         }
         if(node==x){
-            return lev;
+            return level;
         }
-        int l=level(node.left, x, lev+1);
+        int l=level(node.left,x,level+1);
         if(l!=0){
-            //not reached the leaf node on left side: 
             return l;
         }
-        return level(node.right,x,lev+1);
+        return level(node.right,x,level+1);
     }
-
-    public Boolean isSibling(TreeNode node, TreeNode x, TreeNode y){
-        if(node==null){
+    public boolean isSibling(TreeNode parent, TreeNode child1, TreeNode child2){
+        if(parent==null){
             return false;
         }
-        return (node.left==x && node.right==y) || (node.left==y &&node.right==x) || isSibling(node.left,x,y)|| isSibling(node.right,x,y);
+        return ((parent.left==child1 && parent.right==child2)||(parent.left==child2 && parent.right==child1)|| isSibling(parent.left,child1,child2)|| isSibling(parent.right,child1,child2));
     }
 }
