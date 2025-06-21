@@ -65,6 +65,7 @@ Solving leet code questions
 | [0002-add-two-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -123,6 +124,7 @@ Solving leet code questions
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
@@ -170,6 +172,7 @@ Solving leet code questions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -191,6 +194,7 @@ Solving leet code questions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -231,6 +235,7 @@ Solving leet code questions
 | [0101-symmetric-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0386-lexicographical-numbers) |
