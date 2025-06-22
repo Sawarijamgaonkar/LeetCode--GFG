@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public void flatten(TreeNode root) {
+    public void flatten(TreeNode root){
         if(root==null){
             return;
         }
@@ -29,8 +29,9 @@ class Solution {
                 current.right=current.left;
                 current.left=null;
             }
-            
             current=current.right;
+            
         }
     }
+    
 }
