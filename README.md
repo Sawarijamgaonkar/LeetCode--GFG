@@ -35,6 +35,7 @@ Solving leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
@@ -49,6 +50,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -133,6 +135,7 @@ Solving leet code questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -169,6 +172,7 @@ Solving leet code questions
 | [0102-binary-tree-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -192,6 +196,7 @@ Solving leet code questions
 | [0102-binary-tree-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
