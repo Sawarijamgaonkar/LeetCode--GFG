@@ -18,6 +18,7 @@ Solving leet code questions
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0344-reverse-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -180,6 +181,7 @@ Solving leet code questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -204,6 +206,7 @@ Solving leet code questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -224,6 +227,7 @@ Solving leet code questions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -246,6 +250,7 @@ Solving leet code questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -254,4 +259,8 @@ Solving leet code questions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
