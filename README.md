@@ -100,6 +100,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -180,6 +181,7 @@ Solving leet code questions
 | [0112-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -207,6 +209,7 @@ Solving leet code questions
 | [0112-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -254,6 +257,7 @@ Solving leet code questions
 | [0112-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
