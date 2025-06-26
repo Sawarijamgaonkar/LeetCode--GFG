@@ -28,8 +28,7 @@ class Solution {
                 int d=nums.length-1;
                 // calculating sum:
                 while(c<d){
-                    long sum=(long)nums[a]+nums[b]+nums[c]+nums[d];
-                    if(sum==target){
+                    if(((long)nums[a]+nums[b]+nums[c]+nums[d])==target){
                         result.add(Arrays.asList(nums[a],nums[b],nums[c],nums[d]));
                         c++;
                         d--;
@@ -40,7 +39,7 @@ class Solution {
                             d--;
                         }
                     }
-                    else if(sum<target){
+                    else if(((long)nums[a]+nums[b]+nums[c]+nums[d])<target){
                         c++;
                     }
                     else{
