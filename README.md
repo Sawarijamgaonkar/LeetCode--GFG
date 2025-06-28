@@ -75,6 +75,7 @@ Solving leet code questions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0838-design-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0838-design-linked-list) |
 ## Backtracking
 |  |
 | ------- |
