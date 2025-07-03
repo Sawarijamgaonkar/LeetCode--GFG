@@ -36,6 +36,7 @@ Solving leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
@@ -129,6 +130,7 @@ Solving leet code questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
@@ -241,6 +243,7 @@ Solving leet code questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Breadth-First Search
