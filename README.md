@@ -42,6 +42,7 @@ Solving leet code questions
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
@@ -137,6 +138,7 @@ Solving leet code questions
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
