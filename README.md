@@ -48,6 +48,7 @@ Solving leet code questions
 | [0036-valid-sudoku](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
@@ -66,6 +67,7 @@ Solving leet code questions
 | ------- |
 | [0001-two-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
