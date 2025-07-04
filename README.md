@@ -50,6 +50,7 @@ Solving leet code questions
 | [0040-combination-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
@@ -148,6 +149,7 @@ Solving leet code questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0344-reverse-string) |
@@ -174,6 +176,7 @@ Solving leet code questions
 | ------- |
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
