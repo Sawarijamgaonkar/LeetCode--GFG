@@ -47,6 +47,7 @@ Solving leet code questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
@@ -320,6 +321,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0113-path-sum-ii) |
 ## Sliding Window
 |  |
