@@ -60,6 +60,7 @@ Solving leet code questions
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -72,6 +73,7 @@ Solving leet code questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
@@ -202,6 +204,7 @@ Solving leet code questions
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Tree
 |  |
 | ------- |
