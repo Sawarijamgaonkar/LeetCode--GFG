@@ -21,6 +21,7 @@ Solving leet code questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0344-reverse-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -160,6 +161,7 @@ Solving leet code questions
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -368,4 +370,8 @@ Solving leet code questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
