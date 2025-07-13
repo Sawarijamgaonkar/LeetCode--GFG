@@ -263,6 +263,7 @@ Solving leet code questions
 | [0437-path-sum-iii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -272,6 +273,7 @@ Solving leet code questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Solving leet code questions
 | [0437-path-sum-iii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Greedy
 |  |
