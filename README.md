@@ -58,6 +58,7 @@ Solving leet code questions
 | [0040-combination-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
@@ -97,6 +98,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
@@ -372,6 +374,7 @@ Solving leet code questions
 | ------- |
 | [0039-combination-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0113-path-sum-ii) |
 ## Sliding Window
 |  |
