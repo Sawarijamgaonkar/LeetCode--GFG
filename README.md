@@ -33,6 +33,7 @@ Solving leet code questions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3396-valid-word](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3396-valid-word) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
