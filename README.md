@@ -25,6 +25,7 @@ Solving leet code questions
 | [0013-roman-to-integer](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -61,6 +62,7 @@ Solving leet code questions
 | [0041-first-missing-positive](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -93,6 +95,7 @@ Solving leet code questions
 | [0013-roman-to-integer](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -220,6 +223,7 @@ Solving leet code questions
 | ------- |
 | [0015-3sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
