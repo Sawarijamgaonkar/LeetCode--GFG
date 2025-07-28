@@ -66,6 +66,7 @@ Solving leet code questions
 | [0078-subsets](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
@@ -165,6 +166,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
