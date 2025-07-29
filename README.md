@@ -64,6 +64,7 @@ Solving leet code questions
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0118-pascals-triangle) |
@@ -293,6 +294,7 @@ Solving leet code questions
 | [0004-median-of-two-sorted-arrays](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
