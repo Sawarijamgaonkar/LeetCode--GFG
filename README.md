@@ -13,6 +13,7 @@ Solving leet code questions
 | [0185-department-top-three-salaries](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1153-product-sales-analysis-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1153-product-sales-analysis-i) |
