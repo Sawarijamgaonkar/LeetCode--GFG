@@ -16,6 +16,7 @@ Solving leet code questions
 | [0585-investments-in-2016](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1153-product-sales-analysis-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1153-product-sales-analysis-i) |
+| [1179-game-play-analysis-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1811-fix-names-in-a-table) |
