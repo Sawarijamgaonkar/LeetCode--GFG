@@ -97,6 +97,7 @@ Solving leet code questions
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Solving leet code questions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,4 +436,16 @@ Solving leet code questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
