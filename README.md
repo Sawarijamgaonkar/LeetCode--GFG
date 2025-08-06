@@ -157,6 +157,7 @@ Solving leet code questions
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
@@ -196,6 +197,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Solving leet code questions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0258-add-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
