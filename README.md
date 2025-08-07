@@ -32,6 +32,7 @@ Solving leet code questions
 | [0013-roman-to-integer](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0125-valid-palindrome) |
@@ -150,6 +151,7 @@ Solving leet code questions
 | [0012-integer-to-roman](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0070-climbing-stairs) |
@@ -445,6 +447,7 @@ Solving leet code questions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0258-add-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
