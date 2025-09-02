@@ -363,6 +363,7 @@ Solving leet code questions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -371,6 +372,7 @@ Solving leet code questions
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Union Find
 |  |
@@ -390,6 +392,7 @@ Solving leet code questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -454,4 +457,8 @@ Solving leet code questions
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
