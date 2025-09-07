@@ -369,11 +369,13 @@ Solving leet code questions
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Solving leet code questions
 | [0543-diameter-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Trie
 |  |
 | ------- |
@@ -461,4 +464,5 @@ Solving leet code questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
