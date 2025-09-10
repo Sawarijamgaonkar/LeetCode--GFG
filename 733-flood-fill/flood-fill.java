@@ -2,6 +2,7 @@ class Solution {
     int[] dx=new int[]{0,1,0,-1};
     int[] dy=new int[]{1,0,-1,0};
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        if(image[sr][sc]==color) return image;
         boolean[][] visited=new boolean[image.length][image[0].length];
         int curr_color=image[sr][sc];
         bfs(image,sr,sc,color,visited,curr_color);
