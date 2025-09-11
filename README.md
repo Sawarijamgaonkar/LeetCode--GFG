@@ -78,6 +78,7 @@ Solving leet code questions
 | [0118-pascals-triangle](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -230,6 +231,7 @@ Solving leet code questions
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
 ## Divide and Conquer
 |  |
@@ -368,6 +370,7 @@ Solving leet code questions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -385,6 +388,7 @@ Solving leet code questions
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Depth-First Search
 |  |
@@ -400,6 +404,7 @@ Solving leet code questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
