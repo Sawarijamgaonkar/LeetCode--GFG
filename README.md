@@ -44,6 +44,7 @@ Solving leet code questions
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3396-valid-word](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Prefix Sum
 |  |
@@ -169,6 +170,7 @@ Solving leet code questions
 | [0342-power-of-four](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3462-vowels-game-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -480,4 +482,12 @@ Solving leet code questions
 | ------- |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
