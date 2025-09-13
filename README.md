@@ -95,6 +95,7 @@ Solving leet code questions
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1813-maximum-erasure-value](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -120,6 +121,7 @@ Solving leet code questions
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -360,6 +362,7 @@ Solving leet code questions
 | [0135-candy](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0135-candy) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
