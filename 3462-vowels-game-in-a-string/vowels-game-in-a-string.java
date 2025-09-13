@@ -5,7 +5,7 @@ class Solution {
             if(ch=='a'||ch=='i'||ch=='e'||ch=='o'||ch=='u') vowelCount++;
         }
         if(vowelCount==0) return false;
-        if(vowelCount%2!=0) return true;
+        // if(vowelCount%2!=0) return true;
         return true;
     }
 }
