@@ -1,5 +1,6 @@
 class Solution {
     public int makeConnected(int n, int[][] connections) {
+        if(connections.length<n-1) return -1;
         boolean[] visited=new boolean[n];
         List<List<Integer>> adj=new ArrayList<>();
         for(int i=0;i<n;i++){
@@ -19,7 +20,7 @@ class Solution {
         }
         System.out.println(count);
         System.out.println(connections.length);
-        return connections.length-count==count?-1:count;
+        return count;
     }
     public void dfs(int node,List<List<Integer>> adj, boolean[] visited){
         visited[node]=true;
