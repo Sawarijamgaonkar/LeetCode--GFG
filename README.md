@@ -89,6 +89,7 @@ Solving leet code questions
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -119,6 +120,7 @@ Solving leet code questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1039-find-the-town-judge](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -394,6 +396,7 @@ Solving leet code questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
+| [1039-find-the-town-judge](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
