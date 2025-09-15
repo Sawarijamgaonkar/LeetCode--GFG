@@ -388,18 +388,21 @@ Solving leet code questions
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,6 +428,7 @@ Solving leet code questions
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Trie
 |  |
