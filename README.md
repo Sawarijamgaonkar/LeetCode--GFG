@@ -87,6 +87,7 @@ Solving leet code questions
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -241,6 +242,7 @@ Solving leet code questions
 | [0048-rotate-image](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -387,6 +389,7 @@ Solving leet code questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
