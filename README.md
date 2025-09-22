@@ -96,6 +96,7 @@ Solving leet code questions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -244,6 +245,7 @@ Solving leet code questions
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Solving leet code questions
 | [0239-sliding-window-maximum](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Solving leet code questions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
@@ -394,6 +398,7 @@ Solving leet code questions
 | [1036-rotting-oranges](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Graph
 |  |
@@ -409,6 +414,7 @@ Solving leet code questions
 | [0200-number-of-islands](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -435,6 +441,7 @@ Solving leet code questions
 | [0733-flood-fill](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Sawarijamgaonkar/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Trie
 |  |
