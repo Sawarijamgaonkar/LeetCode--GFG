@@ -16,28 +16,19 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result=new ArrayList<>();
-        if(root==null){
-            return result;
-        }
+        if(root==null) return result;
         Queue<TreeNode> queue=new LinkedList<>();
-        // offer is for adding a node:
-        queue.offer(root);
+        queue.add(root);
         while(!queue.isEmpty()){
             int levelSize=queue.size();
-            List<Integer> currentLevel=new ArrayList<>(levelSize);
+            List<Integer> curr_list=new ArrayList<>(levelSize);
             for(int i=0;i<levelSize;i++){
-                // removed the first value in queue:
-                TreeNode currentNode=queue.poll();
-                currentLevel.add(currentNode.val);
-                if(currentNode.left!=null){
-                    queue.offer(currentNode.left);
-                }
-                if(currentNode.right!=null){
-                    queue.offer(currentNode.right);
-                }
-
+                TreeNode node=queue.poll();
+                curr_list.add(node.val);
+                if(node.left!=null) queue.add(node.left);
+                if(node.right!=null) queue.add(node.right);
             }
-            result.add(currentLevel);
+            result.add(curr_list);
         }
         return result;
     }
